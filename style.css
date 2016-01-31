@@ -1,0 +1,73 @@
+#header{
+Font-size: 20px;
+text-align: center;
+float: center;
+color:black
+}
+#Bodyone {
+  Font-size: 20px;
+  color: black;
+  padding-left:70;
+  padding-right:70;
+  font-weight:bold;
+  border-radius: 1px solid block;
+  height:450px;
+  width:570px;
+  padding-left:420px;
+  padding-top:55px;
+  
+}
+
+li {
+  display:inline;
+  padding-top: 10px;
+	z-index: 1;
+	padding-left:100px;
+	padding-right:100px;
+	width: 100%;
+	margin-top: -20px;
+	height: 60px;
+	background-color: white;
+	margin-bottom: 10px;
+	font-size: 24;
+	font-weight: bold;
+}
+
+#survey{
+    padding-top:10px;
+    z-index:1;
+    margin-top:-20;
+    Font-size: 20px;
+}
+
+
+ 
+#h2{
+Font-size: 200%;
+text-align: center;
+ }
+ 
+#heading{ 
+Font-size: 200px;
+text-align: center;
+
+ }
+ 
+ #para{
+   
+ }
+ 
+ html { 
+  background: url(http://www.twofatbellies.com/wp-content/uploads/2013/08/DSC_0517.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+ 
+  
+
+}
+
+
+
+ 
+ 
